@@ -18,5 +18,5 @@ function Add() {
 
 function removeAll() {
   const myNode = document.getElementById("text");
-  myNode.innerHTML = "";
+  myNode.innerHTML = " ";
 }

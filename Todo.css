@@ -1,11 +1,11 @@
-body {
-}
+/* body { */
+/* } */
 .outer {
-  font-family: "Roboto", sans-serif;
+  /* font-family: "Roboto", sans-serif; */
   border: 2px solid black;
   width: 666px;
   height: 603px;
-  box-shadow: #1f1c18;
+  /* box-shadow: #1f1c18; */
   border-style: solid;
   margin-right: 200px;
   margin-top: 40px;
